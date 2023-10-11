@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Great Adventure",
+      "genre": ["Adventure", "Drama"],
+      "rating": 4.7,
+      "description": "Embark on a thrilling journey with breathtaking adventures and unforgettable characters. The Great Adventure is a masterpiece of storytelling and cinematography."
+    },
+    {
+      "id": 2,
+      "title": "Mystery at Midnight",
+      "genre": ["Mystery", "Thriller"],
+      "rating": 4.5,
+      "description": "Unravel the enigmatic secrets of the night in this suspenseful thriller. Mystery at Midnight will keep you on the edge of your seat."
+    },
+    {
+      "id": 3,
+      "title": "Romantic Escapade",
+      "genre": ["Romance", "Comedy"],
+      "rating": 4.3,
+      "description": "Experience love and laughter in this heartwarming romantic comedy. Romantic Escapade is a perfect date night choice."
+    },
+    {
+      "id": 4,
+      "title": "Sci-Fi Odyssey",
+      "genre": ["Science Fiction", "Adventure"],
+      "rating": 4.8,
+      "description": "Journey to distant galaxies and explore the future in this epic science fiction adventure. Sci-Fi Odyssey is a visual spectacle."
+    },
+    {
+      "id": 5,
+      "title": "Historical Drama",
+      "genre": ["Drama", "History"],
+      "rating": 4.6,
+      "description": "Travel back in time and witness history unfold in this gripping historical drama. Historical Drama is a captivating storytelling experience."
+    },
+    {
+      "id": 6,
+      "title": "Comedy Carnival",
+      "genre": ["Comedy"],
+      "rating": 4.2,
+      "description": "Laugh out loud with this hilarious comedy extravaganza. Comedy Carnival guarantees a night of non-stop laughter."
+    },
+    {
+      "id": 7,
+      "title": "Fantasy Quest",
+      "genre": ["Fantasy", "Adventure"],
+      "rating": 4.7,
+      "description": "Enter a world of magic and wonder in this fantastical adventure. Fantasy Quest is a magical journey for all ages."
+    },
+    {
+      "id": 8,
+      "title": "Horror House",
+      "genre": ["Horror", "Mystery"],
+      "rating": 4.4,
+      "description": "Enter a haunted mansion filled with spine-chilling terror. Horror House will haunt your dreams."
+    },
+    {
+      "id": 9,
+      "title": "Action Inferno",
+      "genre": ["Action"],
+      "rating": 4.6,
+      "description": "Gear up for adrenaline-pumping action in this explosive thriller. Action Inferno is a high-octane ride from start to finish."
+    },
+    {
+      "id": 10,
+      "title": "Family Funland",
+      "genre": ["Family", "Animation"],
+      "rating": 4.5,
+      "description": "Share quality time with your family in this heartwarming animated adventure. Family Funland is entertainment for all generations."
+    }
+  ]
+}
